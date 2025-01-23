@@ -3,8 +3,8 @@ Updated Line 2 in git_1
 Line 3
 Updated Line 4 in git_1
 Line 5
-Line 6
+Updated Line 6 in git_1
 Line 7
-Line 8
+Updated Line 8 in git_1
 Line 9
 Line 10
