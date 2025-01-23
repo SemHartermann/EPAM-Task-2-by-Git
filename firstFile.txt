@@ -1,0 +1,10 @@
+Line 1
+Updated Line 2 in git_1
+Line 3
+Updated Line 4 in git_1
+Line 5
+Updated Line 6 in git_1
+Line 7
+Updated Line 8 in git_1
+Line 9
+Line 10
