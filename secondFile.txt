@@ -1,7 +1,9 @@
 Line2 1
-Updated Line 2 in git_2
+Update Line 2 in git_2
+Another Update Line 2 in git_1
 Line2 3
-Updated Line 4 in git_2
+Update Line 4 in git_2
+Another Update Line 4 in git_1
 Line2 5
 Line2 6
 Line2 7
